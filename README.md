@@ -25,17 +25,5 @@ We learned about the impact that technology can have on the health and safety of
 Our plans for the future include adding further automation and IoT to automatically adjust the rate of titration in the IV after the PoC (point of care) finger prick. The nurse need not even have to input the BG (blood glucose) measurement in the app, further reducing the already reduced risk of human error.
 
 **Built With**
-atlas
-cloud-build
-cloud-run
-docker
-expo.io
-fastapi
-gcp
-google-cloud
-javascript
-mongodb
-python
-react-native
-twilio
+atlas, cloud-build, cloud-run, docker, expo.io, fastapi, gcp, google-cloud, javascript, mongodb, python, react-native, twilio
 
